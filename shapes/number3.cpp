@@ -13,7 +13,7 @@ int main() {
         cout << endl;
     }
 }    //
-// Created by rawn on 10/23/21.
+
 //
 /*
 input
